@@ -98,26 +98,66 @@
 		<div class="contact-content wow fadeIn" data-wow-delay="0.5s" data-wow-duration="1s">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8">
+					<div class="col-lg-8 mx-auto">
+						<div class="sep-section-heading">
+							<h2>Send us quick <em>Message</em>, and we will respond as soon as possible.</h2>
+						</div>
+						<form name="sentMessage" id="contactForm" novalidate="novalidate">
+						  <div class="control-group">
+							<div class="form-group floating-label-form-group controls mb-0 pb-2">
+							  <!-- <label>Name</label> -->
+							  <input class="form-control" id="name" type="text" placeholder="Name..." required="required" data-validation-required-message="Please enter your full name.">
+							  <p class="help-block text-danger"></p>
+							</div>
+						  </div>
+						  <div class="control-group">
+							<div class="form-group floating-label-form-group controls mb-0 pb-2">
+							  <!-- <label>Email Address</label> -->
+							  <input class="form-control" id="email" type="email" placeholder="Email Address..." required="required" data-validation-required-message="Please enter your email address.">
+							  <p class="help-block text-danger"></p>
+							</div>
+						  </div>
+						  <div class="control-group">
+							<div class="form-group floating-label-form-group controls mb-0 pb-2">
+							  <!-- <label>Phone Number</label> -->
+							  <input class="form-control" id="phone" type="tel" placeholder="Phone Number..." required="required" data-validation-required-message="Please enter your phone number.">
+							  <p class="help-block text-danger"></p>
+							</div>
+						  </div>
+						  <div class="control-group">
+							<div class="form-group floating-label-form-group controls mb-0 pb-2">
+							  <!-- <label>Message</label> -->
+							  <textarea class="form-control" id="message" rows="3" placeholder="Message..." required="required" data-validation-required-message="Please enter a message."></textarea>
+							  <p class="help-block text-danger"></p>
+							</div>
+						  </div>
+						  <br>
+						  <div class="row" id="success"></div>
+						  <div class="form-group">
+							<button type="submit" class="btn btn-primary" id="sendMessageButton">Send now <i class="fa fa-paper-plane"></i></button>
+						  </div>
+						</form>
+					</div>
+					<!-- <div class="col-md-8">
 						<div class="send-message">
 							<div class="sep-section-heading">
 								<h2>Send us quick <em>Message</em>, and we will respond as soon as possible.</h2>
 							</div>
-							<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+							<form name="sentMessage" id="contactForm" novalidate="novalidate">
 								<div class="row">
 									<div class=" col-md-4 col-sm-4 col-xs-6">
-										<input type="text" class="blog-search-field" name="name" placeholder="Your name..." value="">
+										<input type="text" class="blog-search-field" id="name" name="name" placeholder="Your full name..." value="" required="required" data-validation-required-message="Please enter your name.">
 									</div>
 									<div class="col-md-4 col-sm-4 col-xs-6">
-										<input type="text" class="blog-search-field" name="email" placeholder="Your email..." value="">
+										<input type="text" class="blog-search-field" id="email" name="email" placeholder="Your email..." value="" required="required" data-validation-required-message="Please enter your email address.">
 									</div>
 									<div class="col-md-4 col-sm-4 col-xs-12">
-										<input type="text" class="subject" name="subject" placeholder="Subject..." value="">
+										<input type="text" class="subject" id="subject" name="subject" placeholder="Subject..." value="" required="required" data-validation-required-message="Please enter your your subject.">
 									</div>
 								</div>
 								<div class="row">
 									<div class="col-md-12 col-sm-12">
-										<textarea id="message" class="input" name="message" placeholder="Message..."></textarea>
+										<textarea id="message" class="input" id="message" name="message" placeholder="Message..." required="required" data-validation-required-message="Please enter your message."></textarea>
 									</div>
 								</div>
 								<div class="row">
@@ -129,7 +169,7 @@
 								</div>
 							</form>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-md-4">
 						<div class="contact-info">
 							<div class="sep-section-heading">
@@ -186,6 +226,8 @@
 			</div>
 		</div>
 	</footer>
+
+	
 	
 
 	<script src="assets/js/jquery-1.11.0.min.js"></script>
@@ -206,7 +248,13 @@
     <script src="assets/js/wow.animation.js"></script>
 
 	<!-- Custom Js -->
-    <script src="assets/js/custom.js"></script>
+	<script src="assets/js/custom.js"></script>
+	
+	<!-- Contact_form Js -->
+	<script src="assets/js/contact_me.js"></script>
+	<script src="assets/js/contact_me.min.js"></script>
+	<script src="assets/js/jqBootstrapValidation.js"></script>
+	<script src="assets/js/jqBootstrapValidation.min.js"></script>
 
 </body>
 </html>
