@@ -946,6 +946,14 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         max-width: none
     }
 
+    .go-top {
+        width: 46px;
+        height: 46px;
+        line-height: 46px;
+        font-size: 18px;
+        background-color: #f4c23d !important;
+      }
+
     *,
     :after,
     :before {
