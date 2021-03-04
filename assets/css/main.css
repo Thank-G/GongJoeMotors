@@ -40,7 +40,7 @@ section {
 
 .primary-button a:hover {
     color: #1e1e1e;
-    background-color: #f4c23d
+    background-color:  #ad497b
 }
 
 #search button {
@@ -68,12 +68,12 @@ section {
 
 #search button:hover {
     color: #1e1e1e;
-    background-color: #f4c23d!important
+    background-color:  #ad497b!important
 }
 
 .secondary-button a {
     display: inline-block;
-    background: #f4c23d;
+    background: #ad497b;
     padding: 10px 20px;
     text-align: center;
     letter-spacing: 0.5px;
@@ -196,7 +196,7 @@ section {
     top: 15px;
     right: 15px;
     color: #1e1e1e;
-    background-color: #f4c23d;
+    background-color:  #ad497b;
     border-color: transparent;
     opacity: 1;
     padding: 10px 17px;
@@ -245,7 +245,7 @@ section {
 .preloader-bounce>span:nth-child(3) {
     -webkit-animation-delay: 0.3s;
     animation-delay: 0.3s;
-    background: #f4c23d
+    background:  #ad497b
 }
 
 @-webkit-keyframes bounce {
@@ -294,7 +294,7 @@ section {
     text-align: center;
     line-height: 40px;
     border-radius: 3px;
-    background-color: #f4c23d;
+    background-color:  #ad497b;
     -webkit-transition: all 0.3s;
     -o-transition: all 0.3s;
     transition: all 0.3s
@@ -348,7 +348,7 @@ section {
 
 .page-heading .heading-content-bg .heading-content h2 em {
     font-style: normal;
-    color: #f4c23d
+    color:  #ad497b
 }
 
 .page-heading .heading-content-bg .heading-content p {
@@ -357,7 +357,7 @@ section {
     letter-spacing: 1px;
     font-weight: 300;
     text-transform: uppercase;
-    color: #f4c23d
+    color:  #ad497b
 }
 
 .page-heading .heading-content-bg .heading-content p a {
@@ -368,7 +368,7 @@ section {
 }
 
 .page-heading .heading-content-bg .heading-content p a:hover {
-    color: #f4c23d
+    color:  #ad497b
 }
 
 .page-heading .heading-content-bg .heading-content p em {
@@ -383,7 +383,7 @@ section {
 
 .section-heading .icon i {
     color: #1e1e1e;
-    background-color: #f4c23d;
+    background-color:  #ad497b;
     border-radius: 50%;
     font-size: 18px;
     width: 44px;
@@ -442,7 +442,7 @@ section {
 
 .sep-section-heading h2 em {
     font-style: normal;
-    color: #f4c23d
+    color:  #ad497b
 }
 
 .sep-section-heading h2:after {
@@ -472,7 +472,7 @@ section {
 }
 
 .scrolled-header .logo {
-    background-image: url(../images/GongJoeMotorsLogoBlack.png)!important
+    background-image: url(../images/ADEWALE-LOGO.png)!important
 }
 
 .scrolled-header #cssmenu>ul>li>a {
@@ -512,10 +512,10 @@ section {
 .site-header .logo {
     float: left;
     margin-top: 15px;
-    background-image: url(../images/GongJoeMotorsLogoBlack.png);
+    background-image: url(../images/ADEWALE-LOGO.png);
     background-repeat: no-repeat;
-    width: 180px;
-    height: 40px
+    width: 60px;
+    height: 43px
 }
 
 .site-header .floatleft {
@@ -524,8 +524,8 @@ section {
     display: inline-block;
     margin-top: 15px;
     background-repeat: no-repeat;
-    width: 180px;
-    height: 40px
+    width: 60px;
+    height: 43px
 }
 
 .site-header #cssmenu {
@@ -600,7 +600,7 @@ section {
 }
 
 .site-header #cssmenu>ul>li:hover>a {
-    color: #f4c23d
+    color:  #ad497b
 }
 
 .site-header #cssmenu>ul>li.has-sub>a {
@@ -705,7 +705,7 @@ section {
 
 .site-header #cssmenu ul ul li:hover>a,
 .site-header #cssmenu ul ul li a:hover {
-    color: #f4c23d
+    color:  #ad497b
 }
 
 .site-header #cssmenu ul ul li.has-sub>a:after {
@@ -752,7 +752,7 @@ section {
 
 @media (max-width:767px) {
     .site-header {
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15)
     }
@@ -791,7 +791,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         float: left;
         padding: 15px 0px 44px 0px;
         display: inline-block;
-        background-image: url(../images/GongJoeMotorsLogoBlack.png)
+        background-image: url(../images/ADEWALE-LOGO.png)
     }
     .site-header #cssmenu.align-center>ul {
         text-align: left
@@ -859,7 +859,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         font-family: 'FontAwesome';
         float: right;
         color: #1e1e1e;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         display: inline-block;
         width: 46px;
         height: 46px;
@@ -951,7 +951,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         height: 46px;
         line-height: 46px;
         font-size: 18px;
-        background-color: #f4c23d !important;
+        background-color:  #ad497b !important;
       }
 
     *,
@@ -1022,7 +1022,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .Modern-Slider .NextArrow:hover {
-        background: #f4c23d
+        background:  #ad497b
     }
 
     .Modern-Slider .NextArrow:before {
@@ -1050,7 +1050,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .Modern-Slider .PrevArrow:hover {
-        background: #f4c23d
+        background:  #ad497b
     }
 
     .Modern-Slider .PrevArrow:before {
@@ -1077,7 +1077,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         float: left;
         width: 0px;
         height: 5px;
-        background: #f4c23d;
+        background:  #ad497b;
         position: absolute;
         left: 0px;
         bottom: 0px
@@ -1102,7 +1102,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .Modern-Slider .item h3 em {
-        color: #f4c23d;
+        color:  #ad497b;
         font-style: normal
     }
 
@@ -1300,7 +1300,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
 
     /* 03.01. Banner Ends */
 
-    /* 03.02. Car Items Starts */
+    /* 03.02. Lawyer Items Starts */
     
     section.top-slider-features .slider-top-features {
         position: relative;
@@ -1310,7 +1310,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         margin-bottom: 45px
     }
 
-    section.top-slider-features .slider-top-features .car-item {
+    section.top-slider-features .slider-top-features .lawyer-item {
         margin: 10px;
         border-radius: 5px;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
@@ -1322,15 +1322,15 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         background-color: #fff
     }
 
-    section.top-slider-features .slider-top-features .car-item:hover {
+    section.top-slider-features .slider-top-features .lawyer-item:hover {
         border-bottom: 3px solid #2959ad
     }
 
-    section.top-slider-features .slider-top-features .car-item .thumb-content {
+    section.top-slider-features .slider-top-features .lawyer-item .thumb-content {
         position: relative
     }
 
-    section.top-slider-features .slider-top-features .car-item .thumb-content .thumb-inner img {
+    section.top-slider-features .slider-top-features .lawyer-item .thumb-content .thumb-inner img {
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s;
@@ -1342,12 +1342,12 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         background-size: cover
     }
 
-    section.top-slider-features .slider-top-features .car-item .down-content {
+    section.top-slider-features .slider-top-features .lawyer-item .down-content {
         padding: 15px 20px;
         text-align: left
     }
 
-    section.top-slider-features .slider-top-features .car-item .down-content h4 {
+    section.top-slider-features .slider-top-features .lawyer-item .down-content h4 {
         margin-top: 0px;
         margin-bottom: 5px;
         font-size: 17px;
@@ -1355,7 +1355,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         color: #1e1e1e
     }
 
-    section.top-slider-features .slider-top-features .car-item .down-content span {
+    section.top-slider-features .slider-top-features .lawyer-item .down-content span {
         font-size: 14px;
         font-weight: 700;
         color: #2959ad;
@@ -1396,7 +1396,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     section.top-slider-features .slider-top-features .owl-nav .owl-next span:hover {
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         color: #1e1e1e
     }
 
@@ -1422,7 +1422,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     section.top-slider-features .slider-top-features .owl-nav .owl-prev span:hover {
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         color: #1e1e1e
     }
 
@@ -1430,8 +1430,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         display: none
     }
 
-    .on-grids .car-item,
-    .recent-cars .car-item {
+    .on-grids .lawyer-item,
+    .recent-lawyers .lawyer-item {
         margin-bottom: 30px;
         border-radius: 5px;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
@@ -1442,18 +1442,18 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         transition: all 0.3s
     }
 
-    .on-grids .car-item:hover,
-    .recent-cars .car-item:hover {
+    .on-grids .lawyer-item:hover,
+    .recent-lawyers .lawyer-item:hover {
         border-bottom: 3px solid #2959ad
     }
 
-    .on-grids .car-item .thumb-content,
-    .recent-cars .car-item .thumb-content {
+    .on-grids .lawyer-item .thumb-content,
+    .recent-lawyers .lawyer-item .thumb-content {
         position: relative
     }
 
-    .on-grids .car-item .thumb-content .car-banner,
-    .recent-cars .car-item .thumb-content .car-banner {
+    .on-grids .lawyer-item .thumb-content .lawyer-banner,
+    .recent-lawyers .lawyer-item .thumb-content .lawyer-banner {
         position: absolute;
         margin-top: 0px;
         left: 20px;
@@ -1461,9 +1461,9 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         margin-right: 26px
     }
 
-    .on-grids .car-item .thumb-content .car-banner a,
-    .recent-cars .car-item .thumb-content .car-banner a {
-        background-color: #f4c23d;
+    .on-grids .lawyer-item .thumb-content .lawyer-banner a,
+    .recent-lawyers .lawyer-item .thumb-content .lawyer-banner a {
+        background-color:  #ad497b;
         border-radius: 3px;
         color: #1e1e1e;
         font-size: 13px;
@@ -1476,8 +1476,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         display: inline-block
     }
 
-    .on-grids .car-item .thumb-content .thumb-inner img,
-    .recent-cars .car-item .thumb-content .thumb-inner img {
+    .on-grids .lawyer-item .thumb-content .thumb-inner img,
+    .recent-lawyers .lawyer-item .thumb-content .thumb-inner img {
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s;
@@ -1489,35 +1489,35 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         background-size: cover
     }
 
-    .on-grids .car-item .down-content,
-    .recent-cars .car-item .down-content {
+    .on-grids .lawyer-item .down-content,
+    .recent-lawyers .lawyer-item .down-content {
         padding: 20px;
         text-align: left
     }
 
-    .on-grids .car-item .down-content h4,
-    .recent-cars .car-item .down-content h4 {
+    .on-grids .lawyer-item .down-content h4,
+    .recent-lawyers .lawyer-item .down-content h4 {
         margin-top: 15px;
         font-size: 17px;
         font-weight: 700;
         color: #1e1e1e
     }
 
-    .on-grids .car-item .down-content span,
-    .recent-cars .car-item .down-content span {
+    .on-grids .lawyer-item .down-content span,
+    .recent-lawyers .lawyer-item .down-content span {
         font-size: 15px;
         font-weight: 900;
         color: #2959ad;
         margin-bottom: 0px
     }
 
-    .on-grids .car-item .down-content p,
-    .recent-cars .car-item .down-content p {
+    .on-grids .lawyer-item .down-content p,
+    .recent-lawyers .lawyer-item .down-content p {
         margin: 10px 0px 20px 0px
     }
 
-    .on-grids .car-item .down-content ul,
-    .recent-cars .car-item .down-content ul {
+    .on-grids .lawyer-item .down-content ul,
+    .recent-lawyers .lawyer-item .down-content ul {
         padding: 0;
         margin: 0;
         width: 100%;
@@ -1525,8 +1525,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         list-style: none
     }
 
-    .on-grids .car-item .down-content ul li,
-    .recent-cars .car-item .down-content ul li {
+    .on-grids .lawyer-item .down-content ul li,
+    .recent-lawyers .lawyer-item .down-content ul li {
         display: inline-block;
         width: 23.5%;
         text-align: center;
@@ -1534,19 +1534,19 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     @media (max-width:991px) {
-        .on-grids .car-item .down-content ul li,
-        .recent-cars .car-item .down-content ul li {
+        .on-grids .lawyer-item .down-content ul li,
+        .recent-lawyers .lawyer-item .down-content ul li {
             width: 23%
         }
     }
 
-    .on-grids .car-item .down-content ul li:last-child,
-    .recent-cars .car-item .down-content ul li:last-child {
+    .on-grids .lawyer-item .down-content ul li:last-child,
+    .recent-lawyers .lawyer-item .down-content ul li:last-child {
         border-right: none
     }
 
-    .on-grids .car-item .down-content ul li .item,
-    .recent-cars .car-item .down-content ul li .item {
+    .on-grids .lawyer-item .down-content ul li .item,
+    .recent-lawyers .lawyer-item .down-content ul li .item {
         border-radius: 5px;
         background-color: #f7f7f7;
         padding: 10px 5px;
@@ -1555,23 +1555,23 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         transition: all 0.3s
     }
 
-    .on-grids .car-item .down-content ul li .item:hover,
-    .recent-cars .car-item .down-content ul li .item:hover {
-        background-color: #f4c23d
+    .on-grids .lawyer-item .down-content ul li .item:hover,
+    .recent-lawyers .lawyer-item .down-content ul li .item:hover {
+        background-color:  #ad497b
     }
 
-    .on-grids .car-item .down-content ul li .item:hover i,
-    .recent-cars .car-item .down-content ul li .item:hover i {
+    .on-grids .lawyer-item .down-content ul li .item:hover i,
+    .recent-lawyers .lawyer-item .down-content ul li .item:hover i {
         color: #1e1e1e
     }
 
-    .on-grids .car-item .down-content ul li .item:hover p,
-    .recent-cars .car-item .down-content ul li .item:hover p {
+    .on-grids .lawyer-item .down-content ul li .item:hover p,
+    .recent-lawyers .lawyer-item .down-content ul li .item:hover p {
         color: #1e1e1e
     }
 
-    .on-grids .car-item .down-content ul li .item i,
-    .recent-cars .car-item .down-content ul li .item i {
+    .on-grids .lawyer-item .down-content ul li .item i,
+    .recent-lawyers .lawyer-item .down-content ul li .item i {
         font-size: 11px;
         text-transform: uppercase;
         width: 100%;
@@ -1579,8 +1579,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         float: left
     }
 
-    .on-grids .car-item .down-content ul li .item p,
-    .recent-cars .car-item .down-content ul li .item p {
+    .on-grids .lawyer-item .down-content ul li .item p,
+    .recent-lawyers .lawyer-item .down-content ul li .item p {
         margin-top: 0px;
         margin-bottom: 3px;
         font-size: 12px;
@@ -1588,18 +1588,18 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         color: #333333
     }
 
-    .on-listing .car-item {
+    .on-listing .lawyer-item {
         margin-bottom: 30px;
         border-radius: 5px;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15)
     }
 
-    .on-listing .car-item .thumb-content {
+    .on-listing .lawyer-item .thumb-content {
         position: relative
     }
 
-    .on-listing .car-item .thumb-content .car-banner {
+    .on-listing .lawyer-item .thumb-content .lawyer-banner {
         position: absolute;
         margin-top: 0px;
         left: 20px;
@@ -1608,8 +1608,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         margin-right: 26px
     }
 
-    .on-listing .car-item .thumb-content .car-banner a {
-        background-color: #f4c23d;
+    .on-listing .lawyer-item .thumb-content .lawyer-banner a {
+        background-color:  #ad497b;
         border-radius: 3px;
         color: #1e1e1e;
         font-size: 13px;
@@ -1622,7 +1622,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         display: inline-block
     }
 
-    .on-listing .car-item .thumb-content .thumb-inner img {
+    .on-listing .lawyer-item .thumb-content .thumb-inner img {
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s;
@@ -1636,43 +1636,43 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     @media (max-width:991px) {
-        .on-listing .car-item .thumb-content .thumb-inner img {
+        .on-listing .lawyer-item .thumb-content .thumb-inner img {
             border-top-left-radius: 5px;
             border-top-right-radius: 5px;
             border-bottom-left-radius: 0px
         }
     }
 
-    .on-listing .car-item .down-content {
+    .on-listing .lawyer-item .down-content {
         text-align: left;
         padding: 30px 30px 30px 0px
     }
 
     @media (max-width:991px) {
-        .on-listing .car-item .down-content {
+        .on-listing .lawyer-item .down-content {
             padding: 30px
         }
     }
 
-    .on-listing .car-item .down-content h4 {
+    .on-listing .lawyer-item .down-content h4 {
         margin-top: 0px;
         font-size: 17px;
         font-weight: 700;
         color: #1e1e1e
     }
 
-    .on-listing .car-item .down-content span {
+    .on-listing .lawyer-item .down-content span {
         font-size: 15px;
         font-weight: 900;
         color: #2959ad;
         margin-bottom: 0px
     }
 
-    .on-listing .car-item .down-content p {
+    .on-listing .lawyer-item .down-content p {
         margin: 10px 0px 20px 0px
     }
 
-    .on-listing .car-item .down-content ul {
+    .on-listing .lawyer-item .down-content ul {
         padding: 0;
         margin: 0;
         width: 100%;
@@ -1680,7 +1680,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         list-style: none
     }
 
-    .on-listing .car-item .down-content ul li {
+    .on-listing .lawyer-item .down-content ul li {
         display: inline-block;
         width: 24%;
         text-align: center;
@@ -1688,16 +1688,16 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     @media (max-width:991px) {
-        .on-listing .car-item .down-content ul li {
+        .on-listing .lawyer-item .down-content ul li {
             width: 23%
         }
     }
 
-    .on-listing .car-item .down-content ul li:last-child {
+    .on-listing .lawyer-item .down-content ul li:last-child {
         border-right: none
     }
 
-    .on-listing .car-item .down-content ul li .item {
+    .on-listing .lawyer-item .down-content ul li .item {
         border-radius: 5px;
         background-color: #f7f7f7;
         padding: 10px 5px;
@@ -1706,19 +1706,19 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         transition: all 0.3s
     }
 
-    .on-listing .car-item .down-content ul li .item:hover {
-        background-color: #f4c23d
+    .on-listing .lawyer-item .down-content ul li .item:hover {
+        background-color:  #ad497b
     }
 
-    .on-listing .car-item .down-content ul li .item:hover i {
+    .on-listing .lawyer-item .down-content ul li .item:hover i {
         color: #1e1e1e
     }
 
-    .on-listing .car-item .down-content ul li .item:hover p {
+    .on-listing .lawyer-item .down-content ul li .item:hover p {
         color: #1e1e1e
     }
 
-    .on-listing .car-item .down-content ul li .item i {
+    .on-listing .lawyer-item .down-content ul li .item i {
         font-size: 11px;
         text-transform: uppercase;
         width: 100%;
@@ -1726,7 +1726,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         float: left
     }
 
-    .on-listing .car-item .down-content ul li .item p {
+    .on-listing .lawyer-item .down-content ul li .item p {
         margin-top: 0px;
         margin-bottom: 3px;
         font-size: 12px;
@@ -1734,22 +1734,22 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         color: #333333
     }
 
-    .single-car .recent-car-content {
+    .single-lawyer .recent-lawyer-content {
         border-radius: 5px;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         padding: 30px
     }
 
-    .single-car #single-car .sp-fade-full-screen {
+    .single-lawyer #single-lawyer .sp-fade-full-screen {
         display: none
     }
 
-    .single-car .car-details {
+    .single-lawyer .lawyer-details {
         text-align: left
     }
 
-    .single-car .car-details h4 {
+    .single-lawyer .lawyer-details h4 {
         color: #1e1e1e;
         margin-top: 8px;
         font-size: 24px;
@@ -1757,36 +1757,36 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     @media (max-width:991px) {
-        .single-car .car-details h4 {
+        .single-lawyer .lawyer-details h4 {
             margin-top: 30px
         }
     }
 
-    .single-car .car-details span {
+    .single-lawyer .lawyer-details span {
         font-size: 20px;
         font-weight: 700;
         color: #2959ad
     }
 
-    .single-car .car-details p {
+    .single-lawyer .lawyer-details p {
         margin-top: 20px
     }
 
-    .single-car .car-details ul.car-info {
+    .single-lawyer .lawyer-details ul.lawyer-info {
         padding: 10px 0px 20px 0px;
         width: 50%;
         margin: 0;
         list-style: none
     }
 
-    .single-car .car-details ul.car-info li {
+    .single-lawyer .lawyer-details ul.lawyer-info li {
         border-bottom: 1px solid #eee;
         width: 100%;
         display: inline-block;
         padding: 10px 0px
     }
 
-    .single-car .car-details ul.car-info li i {
+    .single-lawyer .lawyer-details ul.lawyer-info li i {
         margin-right: 10px;
         font-size: 10px;
         text-transform: uppercase;
@@ -1796,18 +1796,18 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         text-align: center;
         line-height: 40px;
         border-radius: 3px;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         color: #1e1e1e
     }
 
-    .single-car .car-details ul.car-info li p {
+    .single-lawyer .lawyer-details ul.lawyer-info li p {
         display: inline;
         font-size: 12px;
         font-weight: 700;
         color: #1e1e1e
     }
 
-    .single-car .car-details ul.car-info li:first-child {
+    .single-lawyer .lawyer-details ul.lawyer-info li:first-child {
         border-top: 1px solid #eee
     }
 
@@ -1857,7 +1857,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     .more-details .item .contact-info i {
         width: 40px;
         height: 40px;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         text-align: center;
         line-height: 40px;
         border-radius: 3px;
@@ -1879,17 +1879,17 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         }
     }
 
-    #owl-similar .car-item {
+    #owl-similar .lawyer-item {
         border: 0px solid #eee;
         padding: 0px;
         margin: 10px
     }
 
-    #owl-similar .car-item .thumb-content .car-banner-sale {
+    #owl-similar .lawyer-item .thumb-content .lawyer-banner-sale {
         margin: 0
     }
 
-    #owl-similar .car-item .thumb-content .car-banner-rent {
+    #owl-similar .lawyer-item .thumb-content .lawyer-banner-rent {
         margin: 0
     }
 
@@ -1903,7 +1903,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         border-top-left-radius: 5px
     }
 
-    .similar-car .car-item {
+    .similar-lawyer .lawyer-item {
         margin-bottom: 30px;
         border-radius: 5px;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
@@ -1914,15 +1914,161 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         transition: all 0.3s
     }
 
-    .similar-car .car-item:hover {
+  
+
+.contact a {
+	display: inline-block;
+	height: 38px;
+	width: 46px;
+	line-height: 38px;
+	text-align: center;
+	background: #ad497b;
+	color: #000000;
+	font-size: 32px;
+	position: absolute;
+	bottom: -75px;
+	right: 22px;
+}
+.contact .line {
+	width: 1px;
+	height: 40px;
+	background: #ad497b;
+	position: absolute;
+	bottom: -40px;
+	right: 44px;
+	z-index: 2;
+}
+.contact .line:after {
+	content: '';
+	width: 5px;
+	height: 5px;
+	display: block;
+	background: #ad497b;
+	border-radius: 100%;
+	position: absolute;
+	bottom: -3px;
+	left: -2px;
+}
+
+
+
+
+#fh5co-counter,
+.fh5co-bg {
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+
+
+
+
+#fh5co-counter {
+    padding: 4em 0;
+    clear: both;
+  }
+  
+  .fh5co-counters {
+    padding: 3em 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+  .fh5co-counters .icon {
+    width: 80px;
+    height: 80px;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  .fh5co-counters .icon i {
+    display: table-cell;
+    vertical-align: middle;
+    width: 80px;
+    height: 80px;
+    font-size: 28px;
+    color: #ad497b;
+    background: #fff;
+    -webkit-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
+    -ms-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
+    -o-box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
+    box-shadow: 0px 5px 0px 0px rgba(0, 0, 0, 0.13);
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+  }
+  .fh5co-counters .counter-wrap {
+    border: 1px solid #ad497b !important;
+  }
+  .fh5co-counters .fh5co-counter {
+    font-size: 40px;
+    display: block;
+    color: rgba(0, 0, 0, 0.7);
+    font-family: "Work Sans", Arial, sans-serif;
+    width: 100%;
+    font-weight: 400;
+    margin-bottom: .3em;
+  }
+  .fh5co-counters .fh5co-counter-label {
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 5px;
+    margin-bottom: 2em;
+    display: block;
+  }
+
+
+.gototop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+  }
+  .gototop.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  .gototop a {
+    width: 50px;
+    height: 50px;
+    display: table;
+    background: rgba(0, 0, 0, 0.5);
+    color: #ad497b;
+    text-align: center;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+  }
+  .gototop a i {
+    height: 50px;
+    display: table-cell;
+    vertical-align: middle;
+  }
+  .gototop a:hover, .gototop a:active, .gototop a:focus {
+    text-decoration: none;
+    outline: none;
+  }
+
+    .similar-lawyer .lawyer-item:hover {
         border-bottom: 3px solid #2959ad
     }
 
-    .similar-car .car-item .thumb-content {
+    .similar-lawyer .lawyer-item .thumb-content {
         position: relative
     }
 
-    .similar-car .car-item .thumb-content .car-banner {
+    .similar-lawyer .lawyer-item .thumb-content .lawyer-banner {
         position: absolute;
         margin-top: 0px;
         left: 20px;
@@ -1930,8 +2076,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         margin-right: 26px
     }
 
-    .similar-car .car-item .thumb-content .car-banner a {
-        background-color: #f4c23d;
+    .similar-lawyer .lawyer-item .thumb-content .lawyer-banner a {
+        background-color:  #ad497b;
         border-radius: 3px;
         color: #1e1e1e;
         font-size: 13px;
@@ -1944,7 +2090,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         display: inline-block
     }
 
-    .similar-car .car-item .thumb-content .thumb-inner img {
+    .similar-lawyer .lawyer-item .thumb-content .thumb-inner img {
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s;
@@ -1956,30 +2102,30 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         background-size: cover
     }
 
-    .similar-car .car-item .down-content {
+    .similar-lawyer .lawyer-item .down-content {
         padding: 20px;
         text-align: left
     }
 
-    .similar-car .car-item .down-content h4 {
+    .similar-lawyer .lawyer-item .down-content h4 {
         margin-top: 15px;
         font-size: 17px;
         font-weight: 700;
         color: #1e1e1e
     }
 
-    .similar-car .car-item .down-content span {
+    .similar-lawyer .lawyer-item .down-content span {
         font-size: 15px;
         font-weight: 900;
         color: #2959ad;
         margin-bottom: 0px
     }
 
-    .similar-car .car-item .down-content p {
+    .similar-lawyer .lawyer-item .down-content p {
         margin: 10px 0px 20px 0px
     }
 
-    .similar-car .car-item .down-content ul {
+    .similar-lawyer .lawyer-item .down-content ul {
         padding: 0;
         margin: 0;
         width: 100%;
@@ -1987,18 +2133,18 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         list-style: none
     }
 
-    .similar-car .car-item .down-content ul li {
+    .similar-lawyer .lawyer-item .down-content ul li {
         display: inline-block;
         width: 24%;
         text-align: center;
         border-right: 3px solid #fff
     }
 
-    .similar-car .car-item .down-content ul li:last-child {
+    .similar-lawyer .lawyer-item .down-content ul li:last-child {
         border-right: none
     }
 
-    .similar-car .car-item .down-content ul li .item {
+    .similar-lawyer .lawyer-item .down-content ul li .item {
         border-radius: 5px;
         background-color: #f7f7f7;
         padding: 10px 5px;
@@ -2007,19 +2153,19 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         transition: all 0.3s
     }
 
-    .similar-car .car-item .down-content ul li .item:hover {
-        background-color: #f4c23d
+    .similar-lawyer .lawyer-item .down-content ul li .item:hover {
+        background-color:  #ad497b
     }
 
-    .similar-car .car-item .down-content ul li .item:hover i {
+    .similar-lawyer .lawyer-item .down-content ul li .item:hover i {
         color: #1e1e1e
     }
 
-    .similar-car .car-item .down-content ul li .item:hover p {
+    .similar-lawyer .lawyer-item .down-content ul li .item:hover p {
         color: #1e1e1e
     }
 
-    .similar-car .car-item .down-content ul li .item i {
+    .similar-lawyer .lawyer-item .down-content ul li .item i {
         font-size: 11px;
         text-transform: uppercase;
         width: 100%;
@@ -2027,7 +2173,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         float: left
     }
 
-    .similar-car .car-item .down-content ul li .item p {
+    .similar-lawyer .lawyer-item .down-content ul li .item p {
         margin-top: 0px;
         margin-bottom: 3px;
         font-size: 12px;
@@ -2035,7 +2181,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         color: #333333
     }
 
-    /* 03.02. Car Items Ends */
+    /* 03.02. lawyer Items Ends */
 
 
     /* 03.02. Blog Items Starts */
@@ -2077,7 +2223,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .latest-news .item .thumb-content .date-post a {
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         border-radius: 3px;
         color: #1e1e1e;
         font-size: 13px;
@@ -2155,7 +2301,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .blog-page .blog-grid-post .item .thumb-content .date-post a {
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         border-radius: 3px;
         color: #1e1e1e;
         font-size: 13px;
@@ -2261,7 +2407,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .blog-page .blog-classic-post .item .thumb-content .date-post a {
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         border-radius: 3px;
         color: #1e1e1e;
         font-size: 13px;
@@ -2416,7 +2562,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         color: #2959ad;
         font-family: 'georgia', serif;
         line-height: 26px;
-        border-left: 3px solid #f4c23d
+        border-left: 3px solid  #ad497b
     }
 
     .blog-page .single-post .comments {
@@ -2473,7 +2619,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .blog-page .single-post .comments .comments-content .continue-button a:hover {
-        color: #f4c23d;
+        color:  #ad497b;
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s
@@ -2522,7 +2668,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .blog-page .single-post .leave-comment input:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     .blog-page .single-post .leave-comment textarea {
@@ -2544,7 +2690,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .blog-page .single-post .leave-comment textarea:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
     
     /* 03.02. Blog Items Ends */
@@ -2600,7 +2746,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         width: 40px;
         height: 40px;
         border-radius: 3px;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         text-align: center;
         line-height: 40px;
         display: inline-block;
@@ -2642,7 +2788,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .contact-content .send-message input:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     .contact-content .send-message textarea {
@@ -2661,7 +2807,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .contact-content .send-message textarea:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     @media (max-width:991px) {
@@ -2683,7 +2829,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .call-to-action .call-to-action-content {
-        background-color: #2959ad;
+        background-color: #292727;
         border-radius: 5px;
         -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
@@ -2713,7 +2859,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
 
     .call-to-action .call-to-action-content p em {
         font-style: normal;
-        color: #f4c23d;
+        color:  #ad497b;
         font-weight: 600
     }
 
@@ -2764,7 +2910,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         text-align: center;
         line-height: 50px;
         border-radius: 50%;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         -webkit-transition: all 0.5s;
         -o-transition: all 0.5s;
         transition: all 0.5s
@@ -2802,6 +2948,83 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         margin-bottom: 30px
     }
 
+    
+    .gotoTop-item {
+        background-color: #fff;
+        -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
+        padding: 6px 6px 4px 6px;
+        border-radius: 5px;
+        border-bottom: 3px solid transparent;
+        -webkit-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s
+    }
+
+    .gotoTop-item:hover {
+        border-bottom: 3px solid #2959ad
+    }
+
+    .gotoTop-item:hover i {
+        background-color: #2959ad;
+        color: #fff
+    }
+
+    @media (max-width:991px) {
+        .gotoTop-item {
+            margin-bottom: 6px
+        }
+    }
+
+    .gotoTop-item i {
+        font-size: 24px;
+        color: #1e1e1e;
+        width: 6px;
+        height: 6px;
+        background-color: transparent;
+        display: inline-block;
+        text-align: center;
+        line-height: 6px;
+        border-radius: 6%;
+        background-color:  #ad497b;
+        -webkit-transition: all 0.5s;
+        -o-transition: all 0.5s;
+        transition: all 0.5s
+    }
+
+    .gotoTop-item .text-content h6 {
+        margin-top: 15px;
+        font-size: 17px;
+        font-weight: 600;
+        margin-bottom: 10px
+    }
+
+    .about-gotoTop .gotoTop-item {
+        margin-bottom: 10px
+    }
+
+    section.top-slider-features {
+        padding-top: 0px;
+        margin-top: -310px
+    }
+
+    @media (max-width:991px) {
+        section.top-slider-features {
+            display: none
+        }
+    }
+    
+    @media (max-width:991px) {
+        .features-search-section {
+            margin-top: 10px
+        }
+    }
+
+    .features-search-section .gotoTop-item {
+        margin-bottom: 10px
+    }
+
+
     .features-search-section .search-content {
         background-color: #2959ad;
         border-radius: 5px;
@@ -2809,7 +3032,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         padding: 0px 30px 30px 30px;
         width: 100%;
-        border-top: 3px solid #f4c23d
+        border-top: 3px solid  #ad497b
     }
 
     @media (max-width:991px) {
@@ -2828,7 +3051,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
 
     .features-search-section .search-content .search-heading .icon i {
         color: #1e1e1e;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         border-radius: 50%;
         font-size: 18px;
         width: 44px;
@@ -2843,7 +3066,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     .features-search-section .search-content .search-heading .icon i:after {
         width: 44px;
         height: 3px;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         position: absolute;
         left: 50%;
         -webkit-transform: translateX(-50%);
@@ -2899,7 +3122,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .features-search-section .search-content .search-form select:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     .features-search-section .search-content .search-form .secondary-button a {
@@ -2940,7 +3163,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
 
     .sidebar-widgets .sidebar-widget .sidebar-heading h4 em {
         font-style: normal;
-        color: #f4c23d
+        color:  #ad497b
     }
 
     .sidebar-widgets .sidebar-widget .sidebar-heading h4:after {
@@ -2960,7 +3183,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.15);
         padding: 0px 30px 30px 30px;
         width: 100%;
-        border-top: 3px solid #f4c23d
+        border-top: 3px solid  #ad497b
     }
 
     @media (max-width:991px) {
@@ -2979,7 +3202,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
 
     .sidebar-widgets .sidebar-widget .search-content .search-heading .icon i {
         color: #1e1e1e;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         border-radius: 50%;
         font-size: 18px;
         width: 44px;
@@ -2994,7 +3217,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     .sidebar-widgets .sidebar-widget .search-content .search-heading .icon i:after {
         width: 44px;
         height: 3px;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         position: absolute;
         left: 50%;
         -webkit-transform: translateX(-50%);
@@ -3040,7 +3263,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .sidebar-widgets .sidebar-widget .search-content .search-form input:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     .sidebar-widgets .sidebar-widget .search-content .search-form select {
@@ -3063,7 +3286,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .sidebar-widgets .sidebar-widget .search-content .search-form select:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     .sidebar-widgets .sidebar-widget .search-content .search-form .secondary-button a {
@@ -3085,7 +3308,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .sidebar-widgets .sidebar-widget .search-widget input:focus {
-        border-color: #f4c23d
+        border-color:  #ad497b
     }
 
     .sidebar-widgets .sidebar-widget .text-widget ul {
@@ -3100,7 +3323,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     .sidebar-widgets .sidebar-widget .text-widget ul li a {
         width: 38px;
         height: 38px;
-        background-color: #f4c23d;
+        background-color:  #ad497b;
         display: inline-block;
         text-align: center;
         font-size: 13px;
@@ -3162,7 +3385,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .sidebar-widgets .sidebar-widget .recent-posts ul li:hover h6 {
-        color: #f4c23d
+        color:  #ad497b
     }
 
     .sidebar-widgets .sidebar-widget .archives ul,
@@ -3230,8 +3453,8 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
     }
 
     .sidebar-widgets .sidebar-widget .tags ul li a:hover {
-        background-color: #f4c23d;
-        border-color: #f4c23d
+        background-color:  #ad497b;
+        border-color:  #ad497b
     }
 
     /* 03.06. Sidebar & Widgets Ends */
@@ -3265,7 +3488,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
         font-size: 14px;
         text-transform: uppercase;
         font-weight: 600;
-        color: #f4c23d
+        color:  #ad497b
     }
 
     .more-about-us .right-content h4 {
@@ -3325,7 +3548,7 @@ only screen and (min-resolution:192dpi) and (max-width:1024px) {
 
     .testimonials .item ul li {
         display: inline-block;
-        color: #f4c23d
+        color:  #ad497b
     }
 
     .testimonials .item ul li:last-child {
@@ -3978,6 +4201,187 @@ footer {
     }
 }
 
+
+.footer__btn-up {
+    position: absolute;
+    right: 20px;
+    bottom: 70px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .footer__btn-up .ic {
+    display: block;
+    margin-right: 5px;
+    margin-bottom: -23px;
+    font-size: 50px;
+    color: #253241;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+  }
+  
+  .footer__btn-up:hover {
+    text-decoration: none;
+  }
+
+  .js-scroll-next + .js-scroll-content {
+    display: none;
+  }
+  
+  .js-scroll-next {
+    cursor: pointer;
+  }
+
+
+  
+a,a:hover,
+.text-primary,
+.text-primary_h:hover,
+.text-primary_b:before,
+.text-primary_a:after,
+.list > li > a:hover,
+.pager li > a:hover,
+.pager li > a:hover .icon,
+.pagination_primary > li:first-child > a:hover,
+.pagination_primary > li:first-child > a:hover .icon,
+.pagination_primary > li:last-child > a:hover,
+.pagination_primary > li:last-child > a:hover .icon,
+.search-close:hover,
+.breadcrumb > li > a:hover,
+.widget-list__link:hover,
+.b-goods-f:not(.b-goods-f_row) .b-goods-f__price-numb,
+.footer a:hover,
+.footer__btn-up:hover .ic,
+.b-goods-f__label_dark,
+.b-team__soc-link:hover,
+.btn-link:hover,
+.entry-media__link:hover,
+.list-mark-4 li:before,
+.list-mark-3 li:before,
+.accordion-trigger[aria-expanded="true"] .ic,
+.b-goods-f_mod-a:hover .b-goods-f__list-item .ic,
+.b-isotope-filter > li.current a,
+.b-isotope-filter > li:hover a,
+.b-team__phone:hover,
+.btn-default:hover,
+.b-post-full .entry-meta__link:hover,
+.form-sidebar__btn:hover,
+.main-slider__link:hover,
+.top-bar__link:hover,
+.navbar-nav .nav-link:hover {color: #d01818;}
+
+
+.bg-primary,
+.bg-primary_h:hover,
+.bg-primary_b:before,
+.bg-primary_a:after,
+.pagination_primary > .active > a,
+.pagination_primary > .active > span,
+.pagination_primary > .active > a,
+.pagination_primary > .active > span,
+.pagination_primary > li > a:hover,
+.pagination_primary > li > a:focus,
+.dropcap_primary:first-letter,
+.tooltip-1 .tooltip-inner,
+.btn-primary,
+.forms__label-check:after,
+.forms__label-radio-2:before,
+.panel-default > .panel-heading,
+.b-services-nav__link.active,
+.b-goods-f_row .b-goods-f__price-numb,
+.page-item.active .page-link,
+.page-item .page-link:hover,
+.noUi-connect,
+.b-steps-list__number:after,
+.slick-dots li.slick-active button,
+.slick-dots li:hover button,
+.list-tags__link:hover,
+.comment-btn:hover,
+.main-slider__link:before,
+.b-team:hover .b-team__inner {background-color: #d01818;}
+
+
+.border_prim,
+.border_prim_h:hover,
+.progress_border_primary,
+.btn-primary,
+.forms__label-radio-2:before,
+.page-item.active .page-link,
+.page-item .page-link:hover,
+.noUi-handle,
+.slick-dots li.slick-active button,
+.slick-dots li:hover button,
+.btn-default:hover {border-color: #d01818;}
+
+.border-t_prim,
+.border-t_prim_h:hover,
+.tooltip-1.top .tooltip-arrow,
+.tooltip-1.top-left .tooltip-arrow,
+.tooltip-1.top-right .tooltip-arrow,
+.widget-title:after,
+.nav-link.active:after,
+#page-preloader .spinner:before {border-top-color: #d01818;}
+
+.border-r_prim,
+.border-r_prim_h:hover,
+.tooltip-1.right .tooltip-arrow {border-right-color: #d01818;}
+
+.border-l_prim,
+.border-l_prim_h:hover,
+.tooltip-1.left .tooltip-arrow,
+.border-left_primary:before,
+.widget-title:after,
+.nav-link.active:after,
+.b-advantages:after {border-left-color: #d01818;}
+
+.border-b_prim,
+.border-b_prim_h:hover,
+.tooltip-1.bottom .tooltip-arrow,
+.tooltip-1.bottom-left .tooltip-arrow,
+.tooltip-1.bottom-right .tooltip-arrow,
+.table_primary > thead > tr > th,
+.collapse.in,
+.btn-link:hover,
+.b-advantages:after,
+.b-dealers-nav__link.active {border-bottom-color: #d01818;}
+
+
+.widget .btn-red{
+    border-color: #d01818 ;
+    background-color: #d01818;
+}
+
+html .b-goods-f__slider .slick-slide:after{
+        background-color: #d01818;
+}
+
+
+.nav-vehicle-detail-tabs .nav-link.active{
+   color: #d01818 ;   
+}
+
+html .nav-vehicle-detail-tabs .nav-link.active:before{
+    border-bottom-color:  #d01818 ; 
+}
+
+html .list-mark-2 li:before{
+        color: #d01818 ;  
+}
+
+html .btn-border:hover{
+    border-color: #d01818 ;
+    background-color: #d01818;
+}
+
+.b-goods-f__descr-title:before{
+       border-color: #d01818 ;
+}
+
+
+
+  
+
+
 @media (max-width:991px) {
     footer .footer-item {
         margin-bottom: 60px
@@ -3996,13 +4400,13 @@ footer .footer-item h2 {
 
 footer .footer-item h2 em {
     font-style: normal;
-    color: #f4c23d
+    color:  #ad497b
 }
 
 footer .footer-item h2:after {
     width: 30px;
     height: 3px;
-    background-color: #f4c23d;
+    background-color:  #ad497b;
     left: 0;
     top: 30px;
     position: absolute;
@@ -4030,7 +4434,7 @@ footer .footer-item ul li a {
 }
 
 footer .footer-item ul li a:hover {
-    color: #f4c23d;
+    color:  #ad497b;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s
@@ -4108,7 +4512,7 @@ footer .footer-item .about-us ul li a {
 
 footer .footer-item .about-us ul li a:hover {
     color: #1e1e1e;
-    background-color: #f4c23d
+    background-color:  #ad497b
 }
 
 footer .footer-item .our-gallery ul li {
@@ -4143,7 +4547,7 @@ footer .footer-item .quick-search input {
 
 footer .footer-item .quick-search input:focus {
     outline: none;
-    border: 1px solid #f4c23d
+    border: 1px solid  #ad497b
 }
 
 footer .sub-footer {
@@ -4163,7 +4567,7 @@ footer .sub-footer p {
 }
 
 footer .sub-footer p a {
-    color: #f4c23d;
+    color:  #ad497b;
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;
     transition: all 0.5s
@@ -4185,4 +4589,5 @@ footer .sub-footer p a:hover {
 	line-height: 60px;
 }
 
+.about-area2{display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-align:center;-moz-box-align:center;-ms-flex-align:center;-webkit-align-items:center;align-items:center}@media only screen and (min-width: 768px) and (max-width: 991px){.about-area2{display:block}}@media (max-width: 575px){.about-area2{display:block}}@media only screen and (min-width: 576px) and (max-width: 767px){.about-area2{display:block}}.about-area2 .about-img2{background-image:url(../images/Adewale-about.jpg);background-size:100%;background-size:cover;background-repeat:no-repeat;height:700px;width:50%;justify-content:center;align-items:end;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;-webkit-box-pack:center;-moz-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;-webkit-box-align:end;-moz-box-align:end;-ms-flex-align:end;-webkit-align-items:flex-end;align-items:flex-end}@media (max-width: 575px){.about-area2 .about-img2{width:100%;height:500px}}@media only screen and (min-width: 576px) and (max-width: 767px){.about-area2 .about-img2{width:100%;height:550px}}@media only screen and (min-width: 768px) and (max-width: 991px){.about-area2 .about-img2{width:100%;height:600px}}.about-area2 .about-img2 .info-man2{background:#fff;display:inline-block;padding:23px 36px;border-radius:20px;margin-right:10px;box-shadow:0 15px 25px rgba(253,143,95,0.1);margin-bottom:-50px}@media only screen and (min-width: 992px) and (max-width: 1199px){.about-area2 .about-img2 .info-man2{padding:23px 22px}}.about-area2 .about-img2 .info-man2 .head-cap2{display:flex;margin-bottom:15px}@media (max-width: 575px){.about-area2 .about-img2 .info-man2 .head-cap2{margin-bottom:9px}}.about-area2 .about-img2 .info-man2 .head-cap2 img{width:inherit}.about-area2 .about-img2 .info-man2 .head-cap2 h3{color:#2959ad;font-size:40px;font-weight:600;padding-left:15px;line-height:32px}@media only screen and (min-width: 992px) and (max-width: 1199px){.about-area2 .about-img2 .info-man2 .head-cap2 h3{font-size:34px}}.about-area2 .about-img2 .info-man2 p{color:#010A44;margin:0;line-height:1.5}@media only screen and (min-width: 992px) and (max-width: 1199px){.about-area2 .about-img2 .info-man2 p{font-size:13px}}@media only screen and (min-width: 576px) and (max-width: 767px){.about-area2 .about-img2 .info-man2 p{font-size:13px}}@media (max-width: 575px){.about-area2 .about-img2 .info-man2 p{font-size:13px}}@media (max-width: 575px){.about-area2 .about-img2 .info-man2.info-man3{display:none !important}}.about-area2 .about-details2{height:700px;width:50%;padding:85px 29px;display:flex;align-items:center;padding-left:20%}@media only screen and (min-width: 1200px) and (max-width: 1440px){.about-area2 .about-details2{padding-left:8%}}@media only screen and (min-width: 992px) and (max-width: 1199px){.about-area2 .about-details2{padding:85px 29px}}@media only screen and (min-width: 768px) and (max-width: 991px){.about-area2 .about-details2{width:100%;padding:50px 30px;height:591px}}@media only screen and (min-width: 576px) and (max-width: 767px){.about-area2 .about-details2{width:100%;padding:50px 30px;height:530px}}@media (max-width: 575px){.about-area2 .about-details2{width:100%;padding:50px 15px;height:548px;padding-top:0}}.about-area2 .about-details2 .right-caption2{width:90%}@media only screen and (min-width: 1200px) and (max-width: 1440px){.about-area2 .about-details2 .right-caption2{width:95%}}@media only screen and (min-width: 992px) and (max-width: 1199px){.about-area2 .about-details2 .right-caption2{width:100%}}@media only screen and (min-width: 576px) and (max-width: 767px){.about-area2 .about-details2 .right-caption2{width:100%}}@media (max-width: 575px){.about-area2 .about-details2 .right-caption2{width:100%}}.about-area2 .about-details2 .right-caption2 .about-more2 p.pera-top2{margin-bottom:25px}.about-details2 .about-details-cap2 h4{font-size:30px;font-family:"Raleway",sans-serif;font-weight:700;margin-bottom:30px;color:#000a2d;display:inline-block}.about-details2 .about-details-cap2 p{color:#464d65;font-size:16px}.collapse-wrapper .card{border:0em;border-radius:0}.collapse-wrapper .card:last-child{margin-bottom:0px}.collapse-wrapper .card-header{padding:0;border-radius:0;background:none;border:0}.collapse-wrapper .card-header a{font-size:16px;padding:20px 15px 20px 41px;color:#506072;display:block;text-decoration:none;border-bottom:1px solid #EFEFEF !important}.collapse-wrapper .card-header a.btn-link{color:#2959ad}.collapse-wrapper .card-header a.collapsed{color:#010A44}.collapse-wrapper .card-header h2 a.collapsed::after{content:"\e61a";font-weight:800;color:#2959ad}.collapse-wrapper .card-header h2 a::after{position:absolute;top:22px;font-size:15px;color:#2959ad;left:8px;font-weight:600;content:"\e622";font-family:'themify'}.collapse-wrapper .card-body{background:#fff;padding:20px 38px}.team-area .single-team .team-img{position:relative;overflow:hidden}.team-area .single-team .team-img img{width:100%;border-radius:10px}.team-area .single-team .team-caption{width:100%;padding-top:30px;-webkit-transition:.4s;-moz-transition:.4s;-o-transition:.4s;transition:.4s}.team-area .single-team .team-caption h3{margin-bottom:3px;line-height:13px;font-family:"Muli",sans-serif}.team-area .single-team .team-caption h3 a{color:#2c234d;font-weight:600;font-size:22px;margin-bottom:12px;display:block}.team-area .single-team .team-caption h3 a:hover{color:#2959ad}.team-area .single-team .team-caption p{color:#2c234d;font-size:16px;margin:0;padding:0}.team-area .single-team:hover .team-img .team-social{opacity:1;visibility:visible}.team-area .single-team:hover .team-img .team-social a{transform:translateY(6px);opacity:1;visibility:visible}.team-social{position:absolute;bottom:0;left:0;right:0;text-align:center;background:rgba(1,10,68,0.5);padding:15px;border-radius:10px;opacity:0;visibility:hidden;-webkit-transition:.4s;-moz-transition:.4s;-o-transition:.4s;transition:.4s}.team-social li{display:inline-block}.team-social li a{color:#fff;font-size:14px;margin:0 12px;display:inline-block;-webkit-transition:.4s;-moz-transition:.4s;-o-transition:.4s;transition:.4s;transform:translateY(60px);opacity:1;visibility:visible}.team-social li a:hover{color:#2959ad}.team-social li a i{display:inline-block}.team-social li:nth-child(1) a{transition-delay:0.0s}.team-social li:nth-child(2) a{transition-delay:0.1s}.team-social li:nth-child(3) a{transition-delay:0.2s}.team-social li:nth-child(4) a{transition-delay:0.3s}.office-pera{padding:85px 81px 68px 90px;background:#FEF2ED}@media only screen and (min-width: 576px) and (max-width: 767px){.office-pera{padding:65px 46px 24px 50px}}@media (max-width: 575px){.office-pera{padding:44px 28px 34px 35px}}
 /* 04. Footer Ends */
